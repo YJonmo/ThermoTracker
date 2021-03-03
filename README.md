@@ -2,9 +2,9 @@
 This is a simple tracking code for human video captured by a thermal camera.
 
 Requirements: 
-opencv
-Python3
-numpy
+opencv\n
+Python3\n
+numpy\m
 
 
 Sample use:
