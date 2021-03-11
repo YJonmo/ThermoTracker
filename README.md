@@ -1,6 +1,12 @@
 # ThermoTracker
 This is a simple tracking code for human video captured by a thermal camera.
 
+
+![temporary](https://user-images.githubusercontent.com/12040950/110722086-74ea1780-825d-11eb-8e68-212b7d98e2e3.gif)
+
+
+
+
 Requirements:
 
 opencv
